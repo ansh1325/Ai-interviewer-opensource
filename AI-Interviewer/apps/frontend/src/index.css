@@ -1,0 +1,11 @@
+@import "../styles/globals.css";
+
+@layer base {
+  :root {
+    @apply font-sans;
+  }
+
+  body {
+    @apply min-h-screen w-screen overflow-x-hidden relative m-0 bg-background text-foreground antialiased selection:bg-primary selection:text-primary-foreground;
+  }
+}
