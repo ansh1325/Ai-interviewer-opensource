@@ -7,6 +7,8 @@ A 100% free, open-source AI technical and behavioral interview platform built on
 ![Next.js Edge](https://img.shields.io/badge/Next.js_Edge_Runtime-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Open Source](https://img.shields.io/badge/100%25_Open_Source-Free-emerald?style=flat-square)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fansh1325%2FAi-interviewer-opensource)
+
 ---
 
 ## ✨ Features
