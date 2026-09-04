@@ -1,4 +1,3 @@
-This is a free version of with changed architecture of the https://github.com/ansh1325/AI-Interviewer
 # AI Technical Interviewer — Complete Project Report
 
 > Generated: 2026-09-04
